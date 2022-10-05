@@ -1,4 +1,3 @@
-# My_Profile
 # 💫 About Me:
 Intern with a graduate degree working at WPI's Office of Strategic Initiatives and University Analysis. <br>Currently working with following technologies in my professional experience,<br>1. Developing Machine learning platform for Product Based Company<br> 1. Dask and FastApi<br> 2. MySql<br> 3. Git<br>2. Building Dashboards for WPI using,<br> 1. Excel and Tableau <br>I'm also a graduate student at WPI pursuing a master's in data science. I enjoy working on machine learning projects and use Data Analytics to write Data Stories. I'll graduate in May 2023, and I'm always looking to expand my personal and professional network. I'm exploring a job in the Data Science / Data Analyst roles. Please do not hesitate to contact me at ukumbhar@wpi.edu.
 
